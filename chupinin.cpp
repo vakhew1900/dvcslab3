@@ -201,7 +201,7 @@ int findFirstNotEmptyString(const ProgramText* code, int strIndex, DirectionFind
 		}
 		else
 		{
-			i += deltaI; //Перейти к следующей строке
+			i += deltaI - 4; //Перейти к следующей строке
 		}
 	}
 
