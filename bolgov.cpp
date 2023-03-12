@@ -127,7 +127,7 @@ signed main(){
    ll T = 1;
    cin >> T;
     while(T--){
-        solve();
+        solve(); // solve smthn
     }
 
 }
